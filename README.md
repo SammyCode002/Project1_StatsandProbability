@@ -42,4 +42,5 @@ The project generates several key visualizations:
 Histogram of device usage hours to identify central tendencies and outliers. 
 Box plot to further analyze the distribution of usage hours. 
 Line graph showing the trend of device usage over the years.
+
 ![linegraph_device_trends](https://github.com/SammyCode002/Project1_StatsandProbability/assets/139438647/5528e80d-b32d-4947-a9f2-5b8aedce7390)
